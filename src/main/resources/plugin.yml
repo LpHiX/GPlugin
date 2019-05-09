@@ -1,0 +1,5 @@
+name: GPlugin
+version: ${project.version}
+main: me.i234.gangamlorder.gplugin.GPlugin
+api-version: 1.13
+load: STARTUP
